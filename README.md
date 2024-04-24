@@ -1,16 +1,17 @@
 # world time
 
-A new Flutter project.
 
-## Getting Started
 
-<img src="./assets/SS2.jpg" width="140" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/SS1.jpg" width="140" height="200"/>
+## Images
 
-World Time API : http://worldtimeapi.org .
+![image](https://github.com/ShadanKazmi/Flutter_World_Time-main/assets/125872053/fa1424b2-0190-4cde-a55d-8b1394e66144)
 
-<h3>Tools Using</h3>
+![image](https://github.com/ShadanKazmi/Flutter_World_Time-main/assets/125872053/d80d0b26-1ad4-4921-8a04-f72605ff88f8)
 
-<br>
+![image](https://github.com/ShadanKazmi/Flutter_World_Time-main/assets/125872053/95c76630-02ec-48d3-bffe-3fe1deab3872)
+
+
+
+World Time API : http://worldtimeapi.org
 
 
